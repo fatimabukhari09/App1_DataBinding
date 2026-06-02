@@ -1,0 +1,27 @@
+@page "/greeting"
+<PageTitle>Data Binding - Greeting</PageTitle>
+
+<h2>Application 1 – One-Way & Two-Way Data Binding</h2>
+
+<div class="card p-4 mb-3" style="max-width:500px">
+    <label><b>Enter Your Name (Two-Way Binding):</b></label>
+    <!-- Two-way binding: @bind syncs input value with userName variable -->
+    <input class="form-control my-2" @bind="userName" placeholder="Type your name..." />
+
+    <hr />
+
+    <h4>One-Way Binding Output:</h4>
+    <!-- One-way binding: displays value only, no sync back -->
+    <p class="alert alert-success">@greetingMessage</p>
+</div>
+
+@code {
+    // Two-way: userName is updated live via @bind
+    private string userName = "Fatima";
+
+    // One-way computed property: derived from userName, read-only display
+    private string greetingMessage =>
+        string.IsNullOrWhiteSpace(userName)
+            ? "Please enter your name above."
+            : $"Hello, {userName}! Welcome to Blazor!";
+}
