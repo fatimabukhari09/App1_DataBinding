@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Assignment 4 – Application 1: App1_DataBinding
 
 ## How to Run
@@ -12,3 +13,6 @@
 
 ## Requirements
 - .NET 8 SDK (https://dotnet.microsoft.com/download/dotnet/8.0)
+=======
+# App1_DataBinding
+>>>>>>> ebc62628408a9201248c0537bcc1299c03b9901d

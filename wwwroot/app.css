@@ -49,3 +49,29 @@ h1:focus {
 .darker-border-checkbox.form-check-input {
     border-color: #929292;
 }
+
+
+/* ===== Modern UI Refresh ===== */
+body{
+    background: linear-gradient(135deg,#f8fafc,#e2e8f0);
+    font-family: 'Segoe UI',sans-serif;
+}
+.page, .content{
+    padding:12px;
+}
+.card, .form-control, .todo-container, .container{
+    border-radius:16px !important;
+}
+button, .btn{
+    border-radius:12px !important;
+    transition:all .25s ease;
+}
+button:hover, .btn:hover{
+    transform:translateY(-2px);
+}
+h1,h2,h3{
+    font-weight:700;
+}
+input, textarea, select{
+    border-radius:10px !important;
+}

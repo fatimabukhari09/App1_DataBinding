@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\Assignment4_AllApps_UI_Updated\\Assignment4_AllApps\\App1_DataBinding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1444F29D-A0AC-4823-8F84-1F3A061294A0}|App1_DataBinding.csproj|c:\\users\\dell\\downloads\\assignment4_allapps_ui_updated\\assignment4_allapps\\app1_databinding\\components\\pages\\greeting.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1444F29D-A0AC-4823-8F84-1F3A061294A0}|App1_DataBinding.csproj|solutionrelative:components\\pages\\greeting.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1444F29D-A0AC-4823-8F84-1F3A061294A0}|App1_DataBinding.csproj|c:\\users\\dell\\downloads\\assignment4_allapps_ui_updated\\assignment4_allapps\\app1_databinding\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1444F29D-A0AC-4823-8F84-1F3A061294A0}|App1_DataBinding.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Greeting.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Assignment4_AllApps_UI_Updated\\Assignment4_AllApps\\App1_DataBinding\\Components\\Pages\\Greeting.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Greeting.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\Assignment4_AllApps_UI_Updated\\Assignment4_AllApps\\App1_DataBinding\\Components\\Pages\\Greeting.razor",
+              "RelativeToolTip": "Components\\Pages\\Greeting.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T06:03:36.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Assignment4_AllApps_UI_Updated\\Assignment4_AllApps\\App1_DataBinding\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\Assignment4_AllApps_UI_Updated\\Assignment4_AllApps\\App1_DataBinding\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T06:03:20.626Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
